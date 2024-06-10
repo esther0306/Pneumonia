@@ -1,4 +1,3 @@
-# Pneumonia
 # Pneumonia X-ray Binary Classification
 
 ## 프로젝트 개요
