@@ -28,6 +28,11 @@
 ---
 
 ## 사용 라이브러리 및 기술
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/ultraytics-7952B3?style=for-the-badge&logo=ultraytics&logoColor=white"> <img src="https://img.shields.io/badge/roboflow-003545?style=for-the-badge&logo=roboflow&logoColor=white"> <img src="https://img.shields.io/badge/pytorch
+-8CAAE6?style=for-the-badge&logo=pytorch&logoColor=white">
+---
+<img src="https://img.shields.io/badge/numpy-F1BF7A?style=for-the-badge&logo=numpy&logoColor=white">  <img src="https://img.shields.io/badge/pandas-0A9EDC?style=for-the-badge&logo=pandas&logoColor=white">  <img src="https://img.shields.io/badge/matplotlib-FF0000?style=for-the-badge&logo=matplotlib&logoColor=white">  <img src="https://img.shields.io/badge/YOLOv8-9F55FF?style=for-the-badge&logo=YOLOv8&logoColor=white">
+
 ```python
 import datetime
 import os
