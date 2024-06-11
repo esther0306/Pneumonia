@@ -9,12 +9,14 @@
 ![폐렴 시각화](image3.png)
 ---
 
+
 ## <p align="center">프로젝트 설명</p>
 이 프로젝트는 다음과 같은 작업을 포함합니다:
 - 데이터 전처리: X-ray 이미지 데이터셋을 불러와 전처리 작업과 Mixup 데이터 증강 수행하였습니다.
 - 모델 구축: 여러 딥러닝 모델을 사용하여 분류 모델을 구축하였습니다.
 - 모델 학습: Mixup 적용 학습, 학습 모니터링 및 조기 종료 등을 사용하여 모델을 학습시켰습니다.
 - 성능 평가: 테스트 데이터와 혼동 행렬 및 지표 계산 사용하여 모델의 성능을 평가하였습니다.
+
 
 ---
 ## <p align="center">개선 사항</p>
@@ -31,6 +33,7 @@
 2. 오버피팅 줄이기 위해 Batch Normalization, Dropout 사용
 
 ---
+
 
 ## <p align="center">사용 라이브러리 및 기술, 데이터셋</p>
 ---
@@ -50,6 +53,7 @@
 
 https://www.kaggle.com/datasets/vivek468/beginner-chest-xray-image-classification
 ---
+
 
 ## <p align="center">과정</p>
 
