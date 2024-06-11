@@ -50,4 +50,5 @@ https://www.kaggle.com/datasets/vivek468/beginner-chest-xray-image-classificatio
 ---
 
 
-## 모델 설명
+## 모델 설명 : 사용한 딥러닝 모델의 종류 및 선택 이유
+![ablationstudy](chart1.png)
