@@ -48,10 +48,13 @@
 
 https://www.kaggle.com/datasets/vivek468/beginner-chest-xray-image-classification
 ---
-
+#*과정*
 
 ## 모델 설명 : 사용한 딥러닝 모델의 종류 및 선택 이유
 ![ablationstudy](chart1.png)
 Densenet121 모델로 가장 작은 loss 값이여서 결정
+---
+## 믹스업
+![mixup](image4.png)
 
 ![ablationstudy](chart2.png)
