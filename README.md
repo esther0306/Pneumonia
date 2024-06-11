@@ -44,4 +44,5 @@
 데이터셋
 데이터셋: Kaggle: Beginner Chest X-Ray Image Classification
 이 데이터셋에서는 CNN(Convolutional Neural Network)을 사용하여 환자가 폐렴에 걸렸는지 여부를 분류할 수 있습니다. 데이터셋에는 모델 학습에 사용할 "train" 폴더, 검증에 사용할 "test" 폴더, 학습된 모델을 기반으로 예측을 수행할 이미지를 포함하는 "pred" 폴더가 포함되어 있습니다.
+
 https://www.kaggle.com/datasets/vivek468/beginner-chest-xray-image-classification
