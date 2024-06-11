@@ -40,4 +40,4 @@
 ## 사용 데이터셋
 데이터셋
 데이터셋: Kaggle: Beginner Chest X-Ray Image Classification
-
+https://www.kaggle.com/datasets/vivek468/beginner-chest-xray-image-classification
