@@ -56,7 +56,13 @@ https://www.kaggle.com/datasets/vivek468/beginner-chest-xray-image-classificatio
 Densenet121 모델로 가장 작은 loss 값이여서 결정
 
 ---
-## 믹스업
+## 믹스업: 비율에 따른 결과
 ![mixup](image4.png)
 
 ![ablationstudy](chart2.png)
+
+30%일때 가장 좋은 결과
+
+---
+##결과
+![result](chart4.png)
