@@ -65,4 +65,5 @@ Densenet121 모델로 가장 작은 loss 값이여서 결정
 
 ---
 ##결과
+
 ![result](chart4.png)
