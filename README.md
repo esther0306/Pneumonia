@@ -1,7 +1,5 @@
 # Pneumonia X-ray Binary Classification
 
-## 프로젝트 개요
-
 ## <p align="center">프로젝트 개요</p>
 
 폐렴 엑스레이 이미지 분류 프로젝트입니다. 이 프로젝트에서는 의료 영상 데이터를 사용하여 폐렴 여부를 이진 분류하는 모델을 개발하였습니다. 딥러닝을 활용하여 흉부 X-ray 영상을 분석하고 폐렴을 자동으로 진단하는 모델을 개발하는 것입니다. 이를 통해 의료진의 진단 과정을 보조하고, 진단의 신속성과 정확성을 향상시키는 것을 목표로 합니다.
@@ -11,7 +9,7 @@
 ![폐렴 시각화](image3.png)
 ---
 
-## 프로젝트 설명
+## <p align="center">프로젝트 설명</p>
 이 프로젝트는 다음과 같은 작업을 포함합니다:
 - 데이터 전처리: X-ray 이미지 데이터셋을 불러와 전처리 작업과 Mixup 데이터 증강 수행하였습니다.
 - 모델 구축: 여러 딥러닝 모델을 사용하여 분류 모델을 구축하였습니다.
@@ -19,6 +17,7 @@
 - 성능 평가: 테스트 데이터와 혼동 행렬 및 지표 계산 사용하여 모델의 성능을 평가하였습니다.
 
 ---
+## <p align="center">개선 사항</p>
 
 ## 현재 개선 사항
 1. 모델 변경 및 하이퍼파라미터 수정 후 성능 비교
@@ -33,7 +32,7 @@
 
 ---
 
-## 사용 라이브러리 및 기술
+## <p align="center">사용 라이브러리 및 기술, 데이터셋</p>
 ---
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">  
 <img src="https://img.shields.io/badge/matplotlib-FF0000?style=for-the-badge&logo=matplotlib&logoColor=white">
@@ -51,7 +50,8 @@
 
 https://www.kaggle.com/datasets/vivek468/beginner-chest-xray-image-classification
 ---
-#*과정*
+
+## <p align="center">과정</p>
 
 ## 모델 설명 : 사용한 딥러닝 모델의 종류 및 선택 이유
 ![ablationstudy](chart1.png)
