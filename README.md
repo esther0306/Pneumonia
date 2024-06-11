@@ -1,4 +1,6 @@
 # Pneumonia X-ray Binary Classification
+# 폐 x-ray image data를 사용한 폐렴 분류 모델 설계
+
 
 ## <p align="center">프로젝트 개요</p>
 
