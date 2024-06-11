@@ -67,5 +67,7 @@ Densenet121 모델로 가장 작은 loss 값이여서 결정
 
 ## 결과
 ![result](chart3.png)
+Test Loss: 0.0647, Test Accuracy: 0.9759
 
 ![result](chart4.png)
+F1 Score: 0.973, Precision: 0.973, Recall: 0.975
